@@ -2,3 +2,14 @@
 <h4> Step2: Add an image
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+<h4> Markup languages
+
+``` javascript
+var myVar = "Hello, world"
+```
+
+``` Mermaid
+sequenceDiagram
+
+```
