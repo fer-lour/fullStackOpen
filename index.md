@@ -1,9 +1,9 @@
 # This is my real first markup text
-<h4> Step2: Add an image
+<h2> Step2: Add an image
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
-<h4> Markup languages
+<h2> Markup languages
 
 ``` javascript
 var myVar = "Hello, world"
@@ -13,3 +13,15 @@ var myVar = "Hello, world"
 sequenceDiagram
 
 ```
+
+<h2> Task list
+<h4>
+- [ ] Start list
+- [ ] List syntax is required
+- [ ] Outline my portfolio
+
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+
